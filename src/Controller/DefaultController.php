@@ -31,7 +31,7 @@ class DefaultController extends AbstractController
        <li><a href = '".$url1."'>article 1</li>
        <li><a href = '".$url2."'>article 2</li>
        <li><a href = '".$url3."'>article 3</li>
-       <li><a href = '".$url4."'>article 4</li>
+       <li><a href = '".$url4."'>article 4-0</li>
        </ul>") ;
     }
 
